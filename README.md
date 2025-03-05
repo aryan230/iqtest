@@ -22,6 +22,7 @@
 - tpl-home.php (Custom Homepage)
 - tpl-test.php (IQ Test Page)
 - tpl-results.php (Test Results Page)
+```
 
 3. Homepage Implementation
 3.1 Key Sections
